@@ -1,0 +1,18 @@
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 数据（建议不上传，除非数据量极小）
+data/
+
+# 训练出的权重
+weights/*.pth
+
+# 编辑器配置
+.vscode/
+.idea/
